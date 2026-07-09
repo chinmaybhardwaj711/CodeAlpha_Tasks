@@ -1,4 +1,4 @@
-# 🎓 Student Grade Tracker
+# 🎓 Student Grade Tracker TASK1
 
 A simple Java console application that allows users to manage student records and analyze academic performance. This project demonstrates the use of object-oriented programming concepts, arrays/ArrayLists, loops, conditional statements, and basic data processing in Java.
 
