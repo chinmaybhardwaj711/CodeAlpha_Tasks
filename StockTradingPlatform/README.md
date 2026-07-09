@@ -1,4 +1,4 @@
-# Stock Trading Platform
+# Stock Trading Platform TASK 2
 
 A full-stack stock trading simulation built with Spring Boot, Java 21, Maven, React, Vite, Axios, and JPA.
 
